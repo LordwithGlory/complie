@@ -1,0 +1,22 @@
+*.apk
+*.iml
+*~
+.*.swp
+.DS_Store
+.gradle
+.idea/
+.settings/
+/.classpath
+/.project
+bin
+build
+classes/
+gen
+gen-external-apklibs/
+local.properties
+out/
+project.properties
+target
+
+# for crashlytics
+com_crashlytics_export_strings.xml
